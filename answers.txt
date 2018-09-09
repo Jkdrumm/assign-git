@@ -1,0 +1,4 @@
+1. The gitignore file is used to exclude certain files from being uploaded to the repository. For a java project, it should include compiled class files, log files, and package files. Anything but the source code and necessary resources should be in the gitignore
+2. Fast-forward is a way to describe the merging of branches that does not result in conflicts and can be merged automatically. This happens when a branch does not diverge from another branch
+3. Different branches are especially helpful for working on different parts of a project, especially with many people. People can have their own branches, or work on a specific feature branch without worrying about affecting the functionality of any of the other branches. This also allows for a running/working copy to always be available (master) while new features are worked on in other branches
+4. One
